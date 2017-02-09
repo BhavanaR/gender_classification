@@ -1,0 +1,16 @@
+0.531096059113 - func
+0.569827586207 - func+syntax*
+0.617056650246 - func+syntax*+punct
+0.63275862069 - func+syntax*+punct+avg_char+uniq_words+long words(norm)
+0.632820197044 - func+syntax*+punct+avg_char+uniq_words
+0.64802955665 - func+syntax*+punct+avg_char+long words
+0.663731527094 - func+syntax*+punct+uniq_words+long words
+0.67407635468 - func+syntax*+punct+long words
+0.679433497537 - func+syntax*+punct+long words+updated string.punct
+0.691687192118 - func+syntax*+punct+long words+updated string.punct+lex
+0.696982758621 - func+syntax+punct+long words+updated string.punct+lex+avg word
+0.712746305419 - func+syntax+punct+long words+updated string.punct+lex
+
+50.xxxx - func+syntax(not norm)+punc(not norm)+avg_char+uniq_words+complex(not norm)
+
+0.491194581281 - punct and syntax
